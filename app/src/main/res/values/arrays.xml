@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="notes">
+        <item>Список в магазин</item>
+        <item>Не забыть</item>
+        <item>Упражнения</item>
+        <item>Доходы</item>
+        <item>Расходы</item>
+    </string-array>
+
+    <string-array name="note_content">
+        <item>Молоко, сахар, колбаса</item>
+        <item>Оплатить счета, погулять с собакой</item>
+        <item>Гиперэкстензия, подтягивания, тяга гантелей к поясу, тяга вертикального блока</item>
+        <item>Зарплата, инвестиции</item>
+        <item>Коммунальные платежи, спортзал</item>
+    </string-array>
+
+</resources>
